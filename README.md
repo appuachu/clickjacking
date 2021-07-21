@@ -1,4 +1,4 @@
-# clickjacking
+# Clickjacking
 This tool is used to automate Clickjacking vulnerability
 
 
