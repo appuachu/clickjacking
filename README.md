@@ -11,7 +11,7 @@ Can Check for Clickjacking vulnerability
 
 
 
-Installation
-https://github.com/appuachu/clickjacking.github.io
-cd clickjacking
-bash clickjacking.sh
+<h2>Installation</h2>
+$ git clone https://github.com/appuachu/clickjacking.github.io
+$ cd clickjacking
+$ bash clickjacking.sh
