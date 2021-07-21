@@ -1,5 +1,5 @@
-# Clickjacking
-This tool is used to automate Clickjacking vulnerability
+# ABOUT TOOL 
+This tool is used to automate Clickjacking vulnerability.Clickjacking is an interface-based attack in which a user is tricked into clicking on actionable content on a hidden website by clicking on some other content in a decoy website.
 
 
 
