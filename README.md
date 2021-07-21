@@ -1,4 +1,4 @@
-# clickjacking.github.io
+# clickjacking
 This tool is used to automate Clickjacking vulnerability
 
 
